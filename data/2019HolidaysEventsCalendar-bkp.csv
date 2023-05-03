@@ -1,0 +1,469 @@
+Region,Month,From_date,to_date,Holiday,Country
+Africa,Jan-19,01/01/2019,01/01/2019, Independence Day  , Sudan 
+Africa,Jan-19,06/01/2019,06/01/2019, Epiphany   , Ethiopia 
+Africa,Jan-19,11/01/2019,11/01/2019, Proclamation of Independence , Morocco 
+Africa,Jan-19,12/01/2019,12/01/2019, Revolution Day , Tanzania 
+Africa,Jan-19,14/01/2019,14/01/2019, Revolution Day , Tunisia 
+Africa,Jan-19,21/01/2019,21/01/2019, Thaipoosam , Mauritius 
+Africa,Jan-19,25/01/2019,25/01/2019, Revolution Day (Beginning) , Egypt 
+Africa,Jan-19,26/01/2019,26/01/2019, NRM Liberation Day , Uganda 
+All Regions,Jan-19,01/01/2019,01/01/2019, New Year , Networkwide 
+Europe & Russia,Jan-19,01/01/2019,01/01/2019, Restoration Day ,Czech Republic
+Europe & Russia,Jan-19,06/01/2019,06/01/2019, Epiphany   ," Austria, Armenia, Poland, Italy,Cyprus,Croatia, Finland,Sweden, Greece, Spain "
+Europe & Russia,Jan-19,07/01/2019,07/01/2019, Orthodox / Coptic Christmas , Russia 
+Far East & Australia,Jan-19,01/01/2019,01/01/2019, Founder's Day , Taiwan 
+Far East & Australia,Jan-19,04/01/2019,04/01/2019, Independence Day  , Myanmar 
+Far East & Australia,Jan-19,14/01/2019,14/01/2019, Coming of Age , Japan 
+Far East & Australia,Jan-19,21/01/2019,21/01/2019, Thaipoosam , Malaysia 
+MIddle East & GCC,Jan-19,07/01/2019,07/01/2019, Orthodox / Coptic Christmas , Lebanon 
+West -  South East Asia & Iran,Jan-19,15/01/2019,15/01/2019, Pongal/Magar Sankranti ," India,Nepal "
+West -  South East Asia & Iran,Jan-19,26/01/2019,26/01/2019, Republic Day , India  
+Africa,Feb-19,01/02/2019,01/02/2019, Abolition of Slavery , Mauritius 
+Africa,Feb-19,04/02/2019,04/02/2019, Heroes Day , Mozambique 
+Africa,Feb-19,04/02/2019,04/02/2019, Liberation Day  , Angola 
+Africa,Feb-19,05/02/2019,05/02/2019, Chinese New Year , Mauritius 
+Americas,Feb-19,05/02/2019,05/02/2019, Constitution Day , Mexico 
+Far East & Australia,Feb-19,06/02/2019,06/02/2019, Waitangi Day , New Zealand 
+Far East & Australia,Feb-19,11/02/2019,11/02/2019, National Day , Japan 
+Far East & Australia,Feb-19,12/02/2019,12/02/2019, Union Day , Myanmar 
+Far East & Australia,Feb-19,19/02/2019,19/02/2019, Magha Bucha(Meak Bochea) ," Cambodia , Thailand "
+Far East & Australia,Feb-19,25/02/2019,25/02/2019, People Power Day , Philippines 
+Far East & Australia,Feb-19,28/02/2019,28/02/2019, Peace Memorial Day , Taiwan 
+MIddle East & GCC,Feb-19,12/02/2019,12/02/2019, National Sports Day , Qatar 
+MIddle East & GCC,Feb-19,14/02/2019,14/02/2019, Rafik Hariri Day , Lebanon 
+MIddle East & GCC,Feb-19,25/02/2019,25/02/2019, National Day , Kuwait 
+MIddle East & GCC,Feb-19,26/02/2019,26/02/2019, Liberation Day , Kuwait 
+West -  South East Asia & Iran,Feb-19,04/02/2019,04/02/2019, National Day , Sri Lanka 
+West -  South East Asia & Iran,Feb-19,05/02/2019,05/02/2019, Kashmir Day  , Pakistan 
+West -  South East Asia & Iran,Feb-19,11/02/2019,11/02/2019, Islamic Revolution , Iran 
+West -  South East Asia & Iran,Feb-19,21/02/2019,21/02/2019, Martyr's Day , Bangladesh 
+Africa,Mar-19,04/03/2019,04/03/2019, Mahasivaratri , Mauritius 
+Africa,Mar-19,06/03/2019,06/03/2019, Independence Day , Ghana 
+Africa,Mar-19,12/03/2019,12/03/2019, Independence Day , Mauritius  
+Africa,Mar-19,12/03/2019,12/03/2019, Youth Day , Zambia 
+Africa,Mar-19,20/03/2019,20/03/2019, Independence Day , Tunisia 
+Africa,Mar-19,21/03/2019,21/03/2019, Human Rights Day , South Africa 
+Americas,Mar-19,05/03/2019,05/03/2019, Mardi Gras , Panama 
+Americas,Mar-19,18/03/2019,18/03/2019,Benito Juarezs day, Mexico 
+Americas,Mar-19,24/03/2019,24/03/2019, Memorial Day , Argentina 
+Europe & Russia,Mar-19,05/03/2019,05/03/2019, Carnival ,  Portugal 
+Europe & Russia,Mar-19,11/03/2019,11/03/2019, Ash Monday , Greece & Cyprus 
+Europe & Russia,Mar-19,15/03/2019,15/03/2019, National Day/Revolution day , Hungary 
+Europe & Russia,Mar-19,17/03/2019,17/03/2019, St.Patrick's Day , Ireland 
+Europe & Russia,Mar-19,19/03/2019,19/03/2019, St Joseph's Day , Malta 
+Europe & Russia,Mar-19,25/03/2019,25/03/2019, Independence Day , Greece 
+Europe & Russia,Mar-19,31/03/2019,31/03/2019, Freedom Day , Malta 
+Far East & Australia,Mar-19,01/03/2019,01/03/2019, Mar 1st Movement , South Korea 
+Far East & Australia,Mar-19,04/03/2019,04/03/2019, Labour Day , Australia(Western) 
+Far East & Australia,Mar-19,11/03/2019,11/03/2019, Canberra day/Adelaide Cup Day , Australia 
+Far East & Australia,Mar-19,19/03/2019,19/03/2019, Cheung Heung Festival ," China, Hong Kong "
+Far East & Australia,Mar-19,21/03/2019,21/03/2019, Spring Equinox , Japan 
+Far East & Australia,Mar-19,27/03/2019,27/03/2019, Armed forces Day , Myanmar 
+MIddle East & GCC,Mar-19,21/03/2019,21/03/2019, Nowrooz , Iraq 
+MIddle East & GCC,Mar-19,25/03/2019,25/03/2019, Feast of Annunciation , Lebanon 
+West -  South East Asia & Iran,Mar-19,02/03/2019,02/03/2019, Peasants Day , Myanmar 
+West -  South East Asia & Iran,Mar-19,04/03/2019,04/03/2019, Mahasivaratri , India & SriLanka 
+West -  South East Asia & Iran,Mar-19,17/03/2019,17/03/2019, Sh.Mujibur Rahman's birthday , Bangladesh 
+West -  South East Asia & Iran,Mar-19,20/03/2019,20/03/2019, Oil Nationalisation Day , Iran 
+West -  South East Asia & Iran,Mar-19,20/03/2019,20/03/2019, Imam Ali's Birthday , Iran 
+West -  South East Asia & Iran,Mar-19,23/03/2019,23/03/2019, Pakistan Day , Pakistan 
+West -  South East Asia & Iran,Mar-19,26/03/2019,26/03/2019, Independence Day , Bangladesh 
+Africa,Apr-19,03/04/2019,03/04/2019, Isra Al Mairaj , Senegal/South Africa 
+Africa,Apr-19,04/04/2019,04/04/2019, Peace Day , Angola 
+Africa,Apr-19,04/04/2019,04/04/2019, Independence Day , Senegal 
+Africa,Apr-19,06/04/2019,06/04/2019, Ugadi/Gudi Padwa , Mauritius  
+Africa,Apr-19,07/04/2019,07/04/2019, Karume Day , Tanzania 
+Africa,Apr-19,09/04/2019,09/04/2019, Martyr's Day , Tunisia 
+Africa,Apr-19,18/04/2019,18/04/2019, Independence Day , Zimbabwe 
+Africa,Apr-19,25/04/2019,25/04/2019, Liberation Day , Egypt 
+Africa,Apr-19,26/04/2019,26/04/2019, Union Day , Tanzania 
+Africa,Apr-19,27/04/2019,27/04/2019, Freedom Day  , South Africa 
+Africa,Apr-19,29/04/2019,29/04/2019, Sham El Nassim , Egypt 
+Americas,Apr-19,02/04/2019,02/04/2019, Malvinas Day , Argentina 
+Americas,Apr-19,21/04/2019,21/04/2019, Tirandentes , Brazil 
+Europe & Russia,Apr-19,01/04/2019,01/04/2019, National Day , Cyprus 
+Europe & Russia,Apr-19,23/04/2019,23/04/2019, National Sovereignty Day , Turkey 
+Europe & Russia,Apr-19,25/04/2019,25/04/2019, Freedom Day/Anni of Liberation ," Portugal,Italy "
+Europe & Russia,Apr-19,27/04/2019,27/04/2019, King's birthday , Netherlands 
+Far East & Australia,Apr-19,03/04/2019,03/04/2019, Isra Al Mairaj , Malaysia 
+Far East & Australia,Apr-19,09/04/2019,09/04/2019, Day of Valour , Philippines 
+Far East & Australia,Apr-19,25/04/2019,25/04/2019, Anzac Day , Australia & New Zealand 
+Far East & Australia,Apr-19,30/04/2019,30/04/2019, Reunification Day , Vietnam 
+MIddle East & GCC,Apr-19,03/04/2019,03/04/2019, Isra Al Mairaj , All GCC 
+UAE ,Apr-19,03/04/2019,03/04/2019, Isra Al Mairaj , UAE 
+West -  South East Asia & Iran,Apr-19,01/04/2019,01/04/2019, Islamic Republic Day , Iran 
+West -  South East Asia & Iran,Apr-19,02/04/2019,02/04/2019, Sizdah bedar  , Iran 
+West -  South East Asia & Iran,Apr-19,03/04/2019,03/04/2019, Isra Al Mairaj/Mabaath , Indonesia/Iran 
+West -  South East Asia & Iran,Apr-19,06/04/2019,06/04/2019, Ugadi/Gudi Padwa , India 
+West -  South East Asia & Iran,Apr-19,14/04/2019,14/04/2019, Sinhala New Year , Sri Lanka 
+West -  South East Asia & Iran,Apr-19,14/04/2019,14/04/2019, Bengali/Indian New Year ," Bangladesh, India "
+West -  South East Asia & Iran,Apr-19,15/04/2019,15/04/2019, Vishu , India (South) 
+West -  South East Asia & Iran,Apr-19,17/04/2019,17/04/2019, Mahavir Jayanti , India 
+Africa,May-19,01/05/2019,01/05/2019, Labour Day ," Algeria,Cote de I'voire, Egypt,Ethiopia, Ghana, Kenya, Mauritius, Nigeria, Seychelles, Senegal, Tunisia, Tanzania, Uganda, South Africa, Zambia, Zimbabwe "
+Africa,May-19,05/05/2019,05/05/2019, Patriot's Victory day , Ethiopia 
+Africa,May-19,25/05/2019,25/05/2019, African Unity Day ," Ghana, Zambia, Zimbabwe "
+Africa,May-19,28/05/2019,28/05/2019, Downfall of the Derg , Ethiopia 
+Africa,May-19,30/05/2019,30/05/2019, Ascension Day , Cote de Ivoire 
+Africa,May-19,31/05/2019,31/05/2019, Laila tou kadir , Cote de Ivoire 
+All Regions,May-19,05/05/2019,05/05/2019, Tentative start of Ramadan ,
+Americas,May-19,01/05/2019,01/05/2019, Labour Day ," Ecuador, Panama, Argentina, Brazil, Chile "
+Americas,May-19,20/05/2019,20/05/2019, Victoria Day , Canada 
+Americas,May-19,21/05/2019,21/05/2019, Navy Day , Chile 
+Americas,May-19,24/05/2019,24/05/2019, Anniv of the battle of Pichincha/National Day ," Ecuador, Argentina "
+Americas,May-19,27/05/2019,27/05/2019, Memorial Day , USA 
+Americas,May-19,30/05/2019,30/05/2019, Ascension Day ," Columbia,Venezuela "
+Europe & Russia,May-19,01/05/2019,01/05/2019, Labour Day ," Austria,Belgium,Czech republic, Croatia, Cyprus, France, Greece, Germany, Poland, Hungary, Italy, Malta, Norway, Netherlands, Portugal, Romania, Russia, Spain, Sweden, Turkey "
+Europe & Russia,May-19,01/05/2019,01/05/2019, Solidarity Day , Turkey 
+Europe & Russia,May-19,03/05/2019,03/05/2019, Constitution Day , Poland 
+Europe & Russia,May-19,04/05/2019,04/05/2019, National Remembrance Day , Netherlands 
+Europe & Russia,May-19,05/05/2019,05/05/2019, Liberation day , Netherlands 
+Europe & Russia,May-19,06/05/2019,06/05/2019, May Bank Holiday , UK & Ireland 
+Europe & Russia,May-19,08/05/2019,08/05/2019, V-E Day , France 
+Europe & Russia,May-19,08/05/2019,08/05/2019, Liberation day , Czech Republic 
+Europe & Russia,May-19,09/05/2019,09/05/2019, Victory Day , Russia 
+Europe & Russia,May-19,17/05/2019,17/05/2019, General Prayer Day , Denmark 
+Europe & Russia,May-19,17/05/2019,17/05/2019, Constitution Day , Norway 
+Europe & Russia,May-19,19/05/2019,19/05/2019, Commemoration of Ataturk , Turkey 
+Europe & Russia,May-19,27/05/2019,27/05/2019, Spring Bank Holiday , UK & Ireland 
+Europe & Russia,May-19,30/05/2019,30/05/2019, Ascension Day ," Austria, Belgium, Denmark, France, Finland, Germany, Netherlands, Norway, Sweden, Switzerland "
+Far East & Australia,May-19,01/05/2019,01/05/2019, Labour Day ," Malaysia, Myanmar, Philippines, Thailand, China, Cambodia, Hong kong, Singapore "
+Far East & Australia,May-19,03/05/2019,03/05/2019, Constitution Day , Japan 
+Far East & Australia,May-19,04/05/2019,04/05/2019, Greenery Day , Japan 
+Far East & Australia,May-19,05/05/2019,05/05/2019, Children's Day , Japan & South Korea 
+Far East & Australia,May-19,06/05/2019,06/05/2019, Labour Day , Australia(Northern territory) 
+Far East & Australia,May-19,12/05/2019,12/05/2019, Mother's Day , Australia 
+Far East & Australia,May-19,12/05/2019,12/05/2019, Buddha's Birthday ," Hong kong, Singapore & South Korea "
+Far East & Australia,May-19,12/05/2019,12/05/2019, Wesak Bucha/Buddha Purnima ," Singapore, Malaysia, Cambodia "
+Far East & Australia,May-19,20/05/2019,20/05/2019, Day of Remembrance , Cambodia 
+Far East & Australia,May-19,22/05/2019,22/05/2019, Royal Plowing Ceremony Day , Cambodia 
+Far East & Australia,May-19,22/05/2019,22/05/2019, Nuzul Al Quran , Malaysia 
+MIddle East & GCC,May-19,01/05/2019,01/05/2019, Labour Day ," Lebanon, Bahrain, Jordan "
+MIddle East & GCC,May-19,12/05/2019,12/05/2019, Independence Day/Liberation Day ," Jordan,Lebanon "
+West -  South East Asia & Iran,May-19,01/05/2019,01/05/2019, Labour Day ," Maldives, Pakistan, Bangladesh, India, Indonesia "
+West -  South East Asia & Iran,May-19,26/05/2019,26/05/2019, Martyrdom of Imam Ali , Iran 
+West -  South East Asia & Iran,May-19,29/05/2019,29/05/2019, Republic day , Nepal 
+West -  South East Asia & Iran,May-19,30/05/2019,30/05/2019, Ascension Day , Indonesia 
+Africa,Jun-19,01/06/2019,01/06/2019, Madraka Day , Kenya 
+Africa,Jun-19,03/06/2019,03/06/2019, Martyr's Day , Uganda 
+Africa,Jun-19,05/06/2019,05/06/2019, Liberation Day , Seychelles 
+Africa,Jun-19,05/06/2019,05/06/2019, Korite , Senegal 
+Africa,Jun-19,09/06/2019,09/06/2019, Whit Sunday/Monday , Cote de Ivoire 
+Africa,Jun-19,09/06/2019,09/06/2019, National Heroes Day , Uganda 
+Africa,Jun-19,12/06/2019,12/06/2019, Democracy Day , Nigeria 
+Africa,Jun-19,18/06/2019,18/06/2019, Constitution Day , Seychelles 
+Africa,Jun-19,25/06/2019,25/06/2019, Independence day , Mozambique 
+Africa,Jun-19,29/06/2019,29/06/2019, National Day , Seychelles 
+Africa,Jun-19,30/06/2019,30/06/2019, Revolution Day , Sudan 
+Americas,Jun-19,17/06/2019,17/06/2019, Martin Miguel de Guemes Day , Argentina 
+Americas,Jun-19,20/06/2019,20/06/2019, Corpus Christi ," Brazil, Venezuela "
+Americas,Jun-19,20/06/2019,20/06/2019, National Flag Day , Argentina 
+Americas,Jun-19,29/06/2019,29/06/2019, St Peter & St Pauls Day , Chile 
+Europe & Russia,Jun-19,02/06/2019,02/06/2019, Republic day , Italy 
+Europe & Russia,Jun-19,03/06/2019,03/06/2019, Bank Holiday , Ireland 
+Europe & Russia,Jun-19,05/06/2019,05/06/2019, Constitution Day , Denmark 
+Europe & Russia,Jun-19,06/06/2019,06/06/2019, National Day , Sweden 
+Europe & Russia,Jun-19,07/06/2019,07/06/2019, National Day , Malta 
+Europe & Russia,Jun-19,10/06/2019,10/06/2019, Portugal Day , Portugal 
+Europe & Russia,Jun-19,12/06/2019,12/06/2019, National Day , Russia 
+Europe & Russia,Jun-19,13/06/2019,13/06/2019, Feast of St. Anthony , Portugal 
+Europe & Russia,Jun-19,17/06/2019,17/06/2019, Orthodox Whit Monday ," Cyprus, Greece "
+Europe & Russia,Jun-19,20/06/2019,20/06/2019, Corpus Christi ," Austria, Croatia, Germany, Poland, Portugal "
+Europe & Russia,Jun-19,22/06/2019,22/06/2019, Anti Fascist struggle day , Croatia 
+Europe & Russia,Jun-19,22/06/2019,22/06/2019, Midsummer Day eve , Sweden & Finland 
+Europe & Russia,Jun-19,25/06/2019,25/06/2019, State Holiday  , Croatia 
+Europe & Russia,Jun-19,28/06/2019,28/06/2019, Constitution Day , Ukraine 
+Europe & Russia,Jun-19,29/06/2019,29/06/2019, St Peter & St Pauls Day , Malta 
+Far East & Australia,Jun-19,03/06/2019,03/06/2019, Queen's birthday , New Zealand 
+Far East & Australia,Jun-19,06/06/2019,06/06/2019, Memorial Day , South Korea 
+Far East & Australia,Jun-19,10/06/2019,10/06/2019, Queen's birthday , Australia (Except QLD & WA) 
+Far East & Australia,Jun-19,12/06/2019,12/06/2019, Independence Day , Philippines 
+Far East & Australia,Jun-19,18/06/2019,18/06/2019, King's mother's birthday , Cambodia 
+West -  South East Asia & Iran,Jun-19,04/06/2019,04/06/2019, Demise of Imam Khomeini , Iran 
+West -  South East Asia & Iran,Jun-19,05/06/2019,05/06/2019, Khordad national uprising , Iran 
+West -  South East Asia & Iran,Jun-19,16/06/2019,16/06/2019, Poson full moon poya , Sri Lanka 
+West -  South East Asia & Iran,Jun-19,29/06/2019,29/06/2019, Martyrdom of Imam Sadeq , Iran 
+Africa,Jul-19,01/07/2019,01/07/2019, Republic day , Ghana 
+Africa,Jul-19,01/07/2019,01/07/2019, Heroes Day , Zambia 
+Africa,Jul-19,02/07/2019,02/07/2019, Unity Day , Zambia 
+Africa,Jul-19,05/07/2019,05/07/2019, Independence Day , Algeria  
+Africa,Jul-19,07/07/2019,07/07/2019, Saba Saba Day , Tanzania 
+Africa,Jul-19,23/07/2019,23/07/2019, Revolution Day , Egypt 
+Africa,Jul-19,25/07/2019,25/07/2019, Republic day , Tunisia 
+Africa,Jul-19,30/07/2019,30/07/2019, Enthronement Day , Morocco 
+Americas,Jul-19,01/07/2019,01/07/2019, Day of Sacred Heart , Columbia 
+Americas,Jul-19,01/07/2019,01/07/2019, St Peter & St Pauls Day ," Columbia, Chile, Peru & Venezuela "
+Americas,Jul-19,01/07/2019,01/07/2019, Canada Day , Canada 
+Americas,Jul-19,04/07/2019,04/07/2019, Independence Day , USA 
+Americas,Jul-19,05/07/2019,05/07/2019, Independence Day , Venezuela 
+Americas,Jul-19,09/07/2019,09/07/2019, Independence Day , Argentina 
+Americas,Jul-19,09/07/2019,09/07/2019, State rebellion Day , Brazil 
+Americas,Jul-19,16/07/2019,16/07/2019, Our lady of Mt Carmel , Chile 
+Americas,Jul-19,18/07/2019,18/07/2019, Constitution Day , Uruguay 
+Americas,Jul-19,20/07/2019,20/07/2019, Independence Day , Columbia 
+Europe & Russia,Jul-19,05/07/2019,05/07/2019, St Cyril & Methodius day , Czech Republic & Slovakia 
+Europe & Russia,Jul-19,06/07/2019,06/07/2019, Jan Hus Day , Czech Republic 
+Europe & Russia,Jul-19,12/07/2019,12/07/2019, Battle of Boyne , Ireland 
+Europe & Russia,Jul-19,14/07/2019,14/07/2019, Bastille Day , France 
+Europe & Russia,Jul-19,21/07/2019,21/07/2019, National Day , Belgium 
+Far East & Australia,Jul-19,01/07/2019,01/07/2019, HKSAR Establishment day , Hong Kong 
+Far East & Australia,Jul-19,15/07/2019,15/07/2019, Marine Day - UMINO HI , Japan 
+Far East & Australia,Jul-19,16/07/2019,16/07/2019, Asalha Puja , Thailand 
+MIddle East & GCC,Jul-19,23/07/2019,23/07/2019, Renaissance Day , Oman 
+West -  South East Asia & Iran,Jul-19,14/07/2019,14/07/2019, Republic day , Iraq 
+West -  South East Asia & Iran,Jul-19,19/07/2019,19/07/2019, Martyr's Day , Myanmar 
+West -  South East Asia & Iran,Jul-19,26/07/2019,26/07/2019, Independence Day , Maldives 
+West -  South East Asia & Iran,Jul-19,27/07/2019,27/07/2019, Esala/Waso full moon poya  ," Sri Lanka,Myanmar "
+Africa,Aug-19,05/08/2019,05/08/2019, Farmer's Day , Zambia 
+Africa,Aug-19,07/08/2019,07/08/2019, Independence day , Cote de Ivoire 
+Africa,Aug-19,08/08/2019,08/08/2019, Farmer's Day (Nane Nane) , Tanzania 
+Africa,Aug-19,09/08/2019,09/08/2019, National Women's Day , South Africa 
+Africa,Aug-19,12/08/2019,12/08/2019, Heroes Day , Zimbabwe 
+Africa,Aug-19,12/08/2019,12/08/2019, Tabaski (Eid al Adha) ," Cote de I'voire, Senegal "
+Africa,Aug-19,13/08/2019,13/08/2019, Women Day , Tunisia 
+Africa,Aug-19,13/08/2019,13/08/2019, Defence Forces Day , Zimbabwe 
+Africa,Aug-19,14/08/2019,14/08/2019, Oued Ed Dahab Day , Morocco 
+Africa,Aug-19,15/08/2019,15/08/2019, Assumption Day ,"  Cote de I'voire, Seychelles,Senegal, Mauritius "
+Africa,Aug-19,20/08/2019,20/08/2019, Revolution Day , Morocco 
+Africa,Aug-19,21/08/2019,21/08/2019, Youth Day , Morocco 
+Americas,Aug-19,05/08/2019,05/08/2019, August Bank Holiday , Canada 
+Americas,Aug-19,10/08/2019,10/08/2019, Independence day , Ecuador 
+Americas,Aug-19,15/08/2019,15/08/2019, Assumption Day ," Paraguay, Chile,Venezuela "
+Americas,Aug-19,19/08/2019,19/08/2019, St. Martin's Day , Argentina 
+Europe & Russia,Aug-19,01/08/2019,01/08/2019, National Day , Switzerland 
+Europe & Russia,Aug-19,05/08/2019,05/08/2019, Victory Day , Croatia 
+Europe & Russia,Aug-19,05/08/2019,05/08/2019, August Bank Holiday , Ireland 
+Europe & Russia,Aug-19,05/08/2019,05/08/2019, Summer Bank Holiday , Scotland  
+Europe & Russia,Aug-19,15/08/2019,15/08/2019, Assumption Day ," Austria, Belgium, Croatia, France, Germany, Greece,Hungary,Italy,Malta, Poland, Portugal, Spain "
+Europe & Russia,Aug-19,20/08/2019,20/08/2019, St.Stephens/National Day , Hungary 
+Europe & Russia,Aug-19,26/08/2019,26/08/2019, Summer Bank Holiday , UK & Ireland 
+Europe & Russia,Aug-19,30/08/2019,30/08/2019, Victory Day , Turkey 
+Far East & Australia,Aug-19,09/08/2019,09/08/2019, National Day , Singapore 
+Far East & Australia,Aug-19,12/08/2019,12/08/2019, Queen's birthday , Thailand 
+Far East & Australia,Aug-19,15/08/2019,15/08/2019, Liberation Day , South Korea 
+Far East & Australia,Aug-19,21/08/2019,21/08/2019, Ninoy Aquino Day , Philippines 
+Far East & Australia,Aug-19,26/08/2019,26/08/2019, Heroes Day , Philippines 
+Far East & Australia,Aug-19,31/08/2019,31/08/2019, Independence Day (Hari Merdeka) , Malaysia 
+MIddle East & GCC,Aug-19,15/08/2019,15/08/2019, Assumption Day , Lebanon 
+West -  South East Asia & Iran,Aug-19,14/08/2019,14/08/2019, Independence Day , Pakistan 
+West -  South East Asia & Iran,Aug-19,15/08/2019,15/08/2019, Mourning Day , Bangladesh 
+West -  South East Asia & Iran,Aug-19,15/08/2019,15/08/2019, Independence Day , India 
+West -  South East Asia & Iran,Aug-19,15/08/2019,15/08/2019, Nikini full moon poya , Sri Lanka 
+West -  South East Asia & Iran,Aug-19,17/08/2019,17/08/2019, Independence Day , Indonesia 
+West -  South East Asia & Iran,Aug-19,19/08/2019,19/08/2019, Eid al Ghadir , Iran 
+West -  South East Asia & Iran,Aug-19,24/08/2019,24/08/2019, Janmashtami ," Bangladesh, India "
+Africa,Sep-19,02/09/2019,02/09/2019, Ganesh Chathurti , Mauritius 
+Africa,Sep-19,07/09/2019,07/09/2019, Victory Day , Mozambique 
+Africa,Sep-19,12/09/2019,12/09/2019, Enkutatash(NY) , Ethiopia 
+Africa,Sep-19,16/09/2019,16/09/2019, Martyr's Day , Libya 
+Africa,Sep-19,17/09/2019,17/09/2019, National Day , Angola 
+Africa,Sep-19,24/09/2019,24/09/2019, Heritage Day , South Africa 
+Africa,Sep-19,25/09/2019,25/09/2019, Revolution Day ," Mozambique, Yemen "
+Africa,Sep-19,27/09/2019,27/09/2019, Meskel , Ethiopia 
+Americas,Sep-19,02/09/2019,02/09/2019, Labour Day , USA & Canada 
+Americas,Sep-19,07/09/2019,07/09/2019, Independence Day , Brazil 
+Americas,Sep-19,16/09/2019,16/09/2019, Independence Day , Mexico 
+Americas,Sep-19,18/09/2019,18/09/2019, Independence Day , Chile 
+Americas,Sep-19,19/09/2019,19/09/2019, Army Day , Chile 
+Europe & Russia,Sep-19,08/09/2019,08/09/2019, Feast of Victories , Malta 
+Europe & Russia,Sep-19,21/09/2019,21/09/2019, Independence day , Malta 
+Europe & Russia,Sep-19,28/09/2019,28/09/2019, St Wenceslas Day , Czech Republic 
+Far East & Australia,Sep-19,01/09/2019,01/09/2019, Father's Day , Australia 
+Far East & Australia,Sep-19,02/09/2019,02/09/2019, National Day , Vietnam 
+Far East & Australia,Sep-19,09/09/2019,09/09/2019, King's birthday (Agong) , Malaysia 
+Far East & Australia,Sep-19,16/09/2019,16/09/2019, Malaysia Day , Malaysia 
+Far East & Australia,Sep-19,16/09/2019,16/09/2019, Respect for the aged , Japan 
+Far East & Australia,Sep-19,23/09/2019,23/09/2019, Autumn equinox , Japan 
+Far East & Australia,Sep-19,24/09/2019,24/09/2019, Constitution Day , Cambodia 
+Far East & Australia,Sep-19,30/09/2019,30/09/2019, Queen's birthday , Western Australia 
+MIddle East & GCC,Sep-19,23/09/2019,23/09/2019, National day , Saudi Arabia 
+West -  South East Asia & Iran,Sep-19,02/09/2019,02/09/2019, Ganesh Chathurti , India 
+West -  South East Asia & Iran,Sep-19,14/09/2019,14/09/2019, Binara full moon poya , Sri Lanka 
+Africa,Oct-19,01/10/2019,01/10/2019, Independence Day , Nigeria 
+Africa,Oct-19,04/10/2019,04/10/2019, Day of peace & reconciliation , Mozambique 
+Africa,Oct-19,06/10/2019,06/10/2019, Armed forces Day , Egypt 
+Africa,Oct-19,09/10/2019,09/10/2019, Independence Day , Uganda 
+Africa,Oct-19,14/10/2019,14/10/2019, Mwalimu Nyerere Day , Tanzania 
+Africa,Oct-19,15/10/2019,15/10/2019, Evacuation Day , Tunisia 
+Africa,Oct-19,18/10/2019,18/10/2019, National Prayer Day , Zambia 
+Africa,Oct-19,23/10/2019,23/10/2019, Liberation Day , Libya 
+Africa,Oct-19,24/10/2019,24/10/2019, Independence day , Zambia 
+Africa,Oct-19,27/10/2019,27/10/2019, Diwali , Mauritius 
+Americas,Oct-19,09/10/2019,09/10/2019, Independence Day of Guayaquil , Ecuador 
+Americas,Oct-19,12/10/2019,12/10/2019, Lady of Aparecida , Brazil 
+Americas,Oct-19,14/10/2019,14/10/2019, Thanksgiving Day , Canada 
+Americas,Oct-19,14/10/2019,14/10/2019, Columbus Day ," Chile, Columbia, Argentina, Uruguay, USA "
+Americas,Oct-19,14/10/2019,14/10/2019, Race Day , Chile 
+Americas,Oct-19,31/10/2019,31/10/2019, Reformation Day , Chile 
+Europe & Russia,Oct-19,01/10/2019,01/10/2019, Independence Day , Cyprus 
+Europe & Russia,Oct-19,03/10/2019,03/10/2019, Unity Day , Germany 
+Europe & Russia,Oct-19,05/10/2019,05/10/2019, Republic day , Portugal 
+Europe & Russia,Oct-19,08/10/2019,08/10/2019, Independence Day , Croatia 
+Europe & Russia,Oct-19,12/10/2019,12/10/2019, Columbus Day/Hispanic day , Spain 
+Europe & Russia,Oct-19,23/10/2019,23/10/2019, Republic day , Hungary 
+Europe & Russia,Oct-19,26/10/2019,26/10/2019, National day , Austria 
+Europe & Russia,Oct-19,28/10/2019,28/10/2019, Independence day , Czech Republic 
+Europe & Russia,Oct-19,28/10/2019,28/10/2019, Ochi Day , Greece & Cyprus 
+Europe & Russia,Oct-19,29/10/2019,29/10/2019, Republic day , Turkey 
+Europe & Russia,Oct-19,31/10/2019,31/10/2019, Halloween holiday , Ireland 
+Far East & Australia,Oct-19,01/10/2019,01/10/2019, National day , Hong Kong 
+Far East & Australia,Oct-19,03/10/2019,03/10/2019, National Foundation Day , South Korea 
+Far East & Australia,Oct-19,07/10/2019,07/10/2019, Queen's birthday , Queensland 
+Far East & Australia,Oct-19,07/10/2019,07/10/2019, Labour Day , Australia( NSW/South Australia) 
+Far East & Australia,Oct-19,07/10/2019,07/10/2019, Labour Day/Queen's Bday , Australia (Queensland) 
+Far East & Australia,Oct-19,09/10/2019,09/10/2019, Hangeul Day ," Singapore, South Korea "
+Far East & Australia,Oct-19,10/10/2019,10/10/2019, ROC National day , Taiwan 
+Far East & Australia,Oct-19,14/10/2019,14/10/2019, Health & Sports Day , Japan 
+Far East & Australia,Oct-19,15/10/2019,15/10/2019, Commemoration of King's Father , Cambodia 
+Far East & Australia,Oct-19,23/10/2019,23/10/2019, Peace Day , Cambodia 
+Far East & Australia,Oct-19,23/10/2019,23/10/2019, Chulalongkorn Day , Thailand 
+Far East & Australia,Oct-19,28/10/2019,28/10/2019, Labour Day , New Zealand 
+Far East & Australia,Oct-19,29/10/2019,29/10/2019, King's coronation Day , Cambodia 
+MIddle East & GCC,Oct-19,03/10/2019,03/10/2019, Independence Day , Iraq 
+West -  South East Asia & Iran,Oct-19,02/10/2019,02/10/2019, Gandhi Jayanti , India 
+West -  South East Asia & Iran,Oct-19,13/10/2019,13/10/2019, Vap / Thadingyut full moon poya ," Sri Lanka,Myanmar "
+West -  South East Asia & Iran,Oct-19,20/10/2019,20/10/2019, Arabaeen , Iran 
+West -  South East Asia & Iran,Oct-19,27/10/2019,27/10/2019, Diwali , India & SriLanka 
+West -  South East Asia & Iran,Oct-19,29/10/2019,29/10/2019, Martryrdom of Imam Reza , Iran 
+West -  South East Asia & Iran,Oct-19,29/10/2019,29/10/2019, Quamee Dhuvas , Maldives 
+Africa,Nov-19,01/11/2019,01/11/2019, Anniversary of the reunion , Algeria 
+Africa,Nov-19,02/11/2019,02/11/2019, Arrival of Indentured Labourers , Mauritius 
+Africa,Nov-19,06/11/2019,06/11/2019, Green March Day , Morocco 
+Africa,Nov-19,15/11/2019,15/11/2019, National Peace Day , Cote de Ivoire 
+Africa,Nov-19,18/11/2019,18/11/2019, Independence Day  , Morocco 
+Americas,Nov-19,03/11/2019,03/11/2019, Seperation Day , Panama 
+Americas,Nov-19,04/11/2019,04/11/2019, Flag Day , Panama 
+Americas,Nov-19,05/11/2019,05/11/2019, Colon Day , Panama 
+Americas,Nov-19,10/11/2019,10/11/2019, Los Santos Uprising Day , Panama 
+Americas,Nov-19,11/11/2019,11/11/2019, Remembrance Day , Canada 
+Americas,Nov-19,11/11/2019,11/11/2019, Veteran's Day , USA 
+Americas,Nov-19,15/11/2019,15/11/2019, Republic day , Brazil 
+Americas,Nov-19,18/11/2019,18/11/2019, National Sovereignty Day , Argentina 
+Americas,Nov-19,20/11/2019,20/11/2019, Revolution Day , Mexico 
+Americas,Nov-19,20/11/2019,20/11/2019, Black conciousness Day , Brazil 
+Americas,Nov-19,28/11/2019,28/11/2019, Thanksgiving Day , USA 
+Americas,Nov-19,28/11/2019,28/11/2019, Independence Day , Panama 
+Europe & Russia,Nov-19,04/11/2019,04/11/2019, Day of Unity , Russia 
+Europe & Russia,Nov-19,10/11/2019,10/11/2019, Father's Day , Finland 
+Europe & Russia,Nov-19,11/11/2019,11/11/2019, Armistice Day ," Belgium, France "
+Europe & Russia,Nov-19,11/11/2019,11/11/2019, Independence Day , Poland 
+Europe & Russia,Nov-19,17/11/2019,17/11/2019, Struggle for freedom & Democracy  day , Czech Republic & Slovakia 
+Far East & Australia,Nov-19,10/11/2019,10/11/2019, Water Festival Ceremony , Cambodia 
+Far East & Australia,Nov-19,21/11/2019,21/11/2019, National day , Myanmar 
+Far East & Australia,Nov-19,23/11/2019,23/11/2019, Thanksgiving Day , Japan 
+Far East & Australia,Nov-19,30/11/2019,30/11/2019, Bonifacio Day , Philippines 
+MIddle East & GCC,Nov-19,18/11/2019,18/11/2019, National Day , Oman 
+MIddle East & GCC,Nov-19,19/11/2019,19/11/2019, Sultan's Birthday , Oman 
+MIddle East & GCC,Nov-19,22/11/2019,22/11/2019, Independence Day , Lebanon 
+MIddle East & GCC,Nov-19,30/11/2019,30/11/2019, Independence Day , Yemen 
+UAE ,Nov-19,30/11/2019,30/11/2019, Martyr's Day , UAE 
+West -  South East Asia & Iran,Nov-19,03/11/2019,03/11/2019, Victory day , Maldives 
+West -  South East Asia & Iran,Nov-19,05/11/2019,05/11/2019, Martyrdom of Iman Hasan , Iran 
+West -  South East Asia & Iran,Nov-19,09/11/2019,09/11/2019, Iqbal Day , Pakistan 
+West -  South East Asia & Iran,Nov-19,11/11/2019,11/11/2019, Republic day , Maldives 
+West -  South East Asia & Iran,Nov-19,12/11/2019,12/11/2019, Ill full moon poya , Sri Lanka 
+West -  South East Asia & Iran,Nov-19,15/11/2019,15/11/2019, Birthday of Imam Sadeq , Iran 
+West -  South East Asia & Iran,Nov-19,15/11/2019,15/11/2019, Birthday of Muhammad(Mawlid) , Iran 
+Africa,Dec-19,06/12/2019,06/12/2019, Farmer's Day , Ghana 
+Africa,Dec-19,09/12/2019,09/12/2019, Independence Day , Tanzania 
+Africa,Dec-19,12/12/2019,12/12/2019, Jamhuri , Kenya 
+Africa,Dec-19,16/12/2019,16/12/2019, Day of Reconciliation , South Africa 
+Africa,Dec-19,22/12/2019,22/12/2019, Unity Day , Zimbabwe 
+Africa,Dec-19,24/12/2019,24/12/2019, Independence Day , Libya 
+Africa,Dec-19,26/12/2019,26/12/2019, Day of Goodwill , South Africa 
+All Regions,Dec-19,25/12/2019,25/12/2019, Christmas , Networkwide 
+Americas,Dec-19,08/12/2019,08/12/2019, Immaculate Conception ,"  Panama, Argentina, Chile, Columbia, Peru, Venezuela "
+Americas,Dec-19,12/12/2019,12/12/2019, Día de la Virgen de Guadalupe , Mexico 
+Europe & Russia,Dec-19,01/12/2019,01/12/2019, National Day , Romania 
+Europe & Russia,Dec-19,01/12/2019,01/12/2019, Independence Day , Portugal 
+Europe & Russia,Dec-19,06/12/2019,06/12/2019, Independence Day , Finland 
+Europe & Russia,Dec-19,06/12/2019,06/12/2019, Constitution Day , Spain 
+Europe & Russia,Dec-19,08/12/2019,08/12/2019, Immaculate Conception ," Austria, Italy, Portugal,Spain,Malta "
+Europe & Russia,Dec-19,13/12/2019,13/12/2019, Republic day , Malta 
+Europe & Russia,Dec-19,26/12/2019,26/12/2019, St Stephen's Day ," Austria,Croatia, Czech republic, Denmark,France, Germany, Finland, Hungary, Ireland, Italy, Norway, Netherland, Poland, Spain "
+Europe & Russia,Dec-19,26/12/2019,26/12/2019, Synaxis of Mother of God , Greece & Cyprus 
+Far East & Australia,Dec-19,05/12/2019,05/12/2019, King Bhumibol's birthday , Thailand 
+Far East & Australia,Dec-19,10/12/2019,10/12/2019, Constitution Day , Thailand 
+Far East & Australia,Dec-19,10/12/2019,10/12/2019, Intl Human Rights day , Cambodia 
+Far East & Australia,Dec-19,23/12/2019,23/12/2019, Emperor's Birthday , Japan 
+Far East & Australia,Dec-19,30/12/2019,30/12/2019, Rizal Day , Philippines 
+MIddle East & GCC,Dec-19,18/12/2019,18/12/2019, National day , Qatar 
+UAE ,Dec-19,02/12/2019,02/12/2019, National day , UAE 
+West -  South East Asia & Iran,Dec-19,11/12/2019,11/12/2019, Unduvap Full moon Poya , Sri Lanka 
+West -  South East Asia & Iran,Dec-19,16/12/2019,16/12/2019, Victory day , Bangladesh 
+West -  South East Asia & Iran,Dec-19,25/12/2019,25/12/2019, Birthday of Qaidi Azam , Pakistan 
+Far East & Australia,Apr-19,29/04/2019,05/05/2019, Showa Day (Golden Week) , Japan 
+Europe & Russia,May-19,30/05/2019,15/07/2019, Cricket World Cup , UK 
+Europe & Russia,Nov-19,30/11/2019,02/12/2019, St Andrew's Day ," Scotland, Romania "
+West -  South East Asia & Iran,Nov-19,29/11/2019,01/12/2019, Day of embracing Islam , Maldives 
+Far East & Australia,Jan-19,26/01/2019,28/01/2019, Australia Day , Australia 
+Far East & Australia,May-19,05/05/2019,06/05/2019, Coronation Day , Thailand 
+Far East & Australia,Aug-19,11/08/2019,12/08/2019, Mountain Day , Japan 
+Africa,Jan-19,06/01/2019,07/01/2019, Orthodox / Coptic Christmas ," Egypt, Ethiopia, Sudan "
+Europe & Russia,Jan-19,01/01/2019,04/01/2019, NY Week & Bank Holiday , Russia 
+Europe & Russia,Feb-19,23/02/2019,25/02/2019, Red Army Day , Russia 
+Far East & Australia,Feb-19,04/02/2019,10/02/2019, Chinese New Year ," China, Hong Kong, Malaysia, Singapore, South Korea, Indonesia, Phlippines, Taiwan, Vietnam (Tet New Year), Thailand "
+West -  South East Asia & Iran,Feb-19,08/02/2019,09/02/2019, Martyrdom of Fatemah , Iran 
+Americas,Mar-19,01/03/2019,09/03/2019, Carnival ,"  Argentina, Brazil, Ecuador,Panama, Uruguay, Venezuela "
+Far East & Australia,Mar-19,07/03/2019,08/03/2019, Day of Silence(Hari Raya Nyepi) , Indonesia 
+West -  South East Asia & Iran,Mar-19,20/03/2019,21/03/2019, Holi , India 
+West -  South East Asia & Iran,Mar-19,21/03/2019,24/03/2019, Nowrooz , Iran 
+All Regions,Apr-19,19/04/2019,22/04/2019, Good Friday - Easter , Networkwide 
+All Regions,Apr-19,26/04/2019,29/04/2019, Orthodox Good Friday & Coptic Easter , Networkwide 
+Far East & Australia,Apr-19,05/04/2019,08/04/2019, Qing Ming Festival ," China, Hong Kong, Taiwan "
+Far East & Australia,Apr-19,06/04/2019,08/04/2019, Chakri Day , Thailand 
+Far East & Australia,Apr-19,13/04/2019,15/04/2019, Songakran/New Year ," Thailand, Cambodia "
+Far East & Australia,Apr-19,13/04/2019,16/04/2019, Thingyaan , Myanmar 
+Far East & Australia,Apr-19,14/04/2019,15/04/2019, Hung King's Temple Festival , Vietnam 
+Far East & Australia,Apr-19,18/04/2019,19/04/2019, Burmese New Year , Myanmar 
+West -  South East Asia & Iran,Apr-19,20/04/2019,21/04/2019, Shab e baraat , Bangladesh 
+West -  South East Asia & Iran,Apr-19,20/04/2019,21/04/2019, Imam Mahdi's Birthday , Iran 
+Far East & Australia,May-19,13/05/2019,15/05/2019, King's birthday , Cambodia 
+West -  South East Asia & Iran,May-19,19/05/2019,20/05/2019, Wesak Bucha/Buddha Purnima ," Sri Lanka, Bangladesh, Indonesia, India, Thailand, Myanmaar "
+West -  South East Asia & Iran,May-19,30/05/2019,31/05/2019, Jamatul Bidah , Bangladesh 
+Africa,Jun-19,16/06/2019,17/06/2019, Youth Day , South Africa 
+All Regions,Jun-19,03/06/2019,04/06/2019, Eid al Fitr ,
+Europe & Russia,Jun-19,09/06/2019,10/06/2019, Whit Sunday/Monday ," Austria, Belgium,Germany, Denmark, Finland, France, Hungary, Italy, Netherlands, Norway, Poland, Portugal, Romania, Russia, Greece, Cyprus, Ukraine , Switzerland "
+Far East & Australia,Jun-19,01/06/2019,03/06/2019, Children's Day/Pancasila Day ," Cambodia,Indonesia "
+Far East & Australia,Jun-19,04/06/2019,05/06/2019, Hari Raya Puasa ," Indonesia, Malaysia, Singapore "
+Far East & Australia,Jun-19,07/06/2019,09/06/2019, Dragon boat festival ," China, Hong Kong, Taiwan "
+Africa,Aug-19,30/08/2019,31/08/2019, Hijri NY/Muharram ," Algeria,Egypt,Tunisia, Senegal, Sudan "
+All Regions,Aug-19,12/08/2019,15/08/2019,Eid al Adha,
+Europe & Russia,Aug-19,24/08/2019,26/08/2019, Independence Day , Ukraine 
+Far East & Australia,Aug-19,10/08/2019,12/08/2019, Hari Raya Haji (Eid al Adha) , Singapore 
+Far East & Australia,Aug-19,13/08/2019,15/08/2019, Obon festival , Japan 
+Far East & Australia,Aug-19,30/08/2019,31/08/2019, Hijri NY/Muharram , Malaysia 
+MIddle East & GCC,Aug-19,30/08/2019,31/08/2019, Hijri NY/Muharram ," Lebanon, Bahrain, Kuwat, Iraq "
+UAE ,Aug-19,10/08/2019,11/08/2019, Arafat Day , UAE 
+UAE ,Aug-19,30/08/2019,31/08/2019, Hijri NY/Muharram , UAE 
+West -  South East Asia & Iran,Aug-19,30/08/2019,31/08/2019, Hijri NY/Muharram ," Indonesia , India "
+Africa,Sep-19,08/09/2019,09/09/2019, Ashurra , Algeria  
+Africa,Sep-19,21/09/2019,23/09/2019, Founder's Day , Ghana 
+Far East & Australia,Sep-19,12/09/2019,15/09/2019," Chuseok-Mid Autumn, Harvest Festival, Golden Week "," China, South Korea, Taiwan, Hong Kong "
+Far East & Australia,Sep-19,27/09/2019,29/09/2019, Ancestor's Day , Cambodia 
+MIddle East & GCC,Sep-19,09/09/2019,10/09/2019, Eve of Ashurra ," Bahrain , Iraq, Lebanon "
+West -  South East Asia & Iran,Sep-19,09/09/2019,10/09/2019, Ashurra , India/Iran 
+West -  South East Asia & Iran,Sep-19,09/09/2019,10/09/2019, Muharram/Shura/Tassoua ," Bangladesh, Pakistan,Iran "
+West -  South East Asia & Iran,Sep-19,11/09/2019,13/09/2019, Onam , South India 
+Africa,Oct-19,20/10/2019,21/10/2019, Mashujaa Day , Kenya 
+Americas,Oct-19,12/10/2019,14/10/2019, Day of Respect for Cultural Diversity , Argentina 
+Europe & Russia,Oct-19,07/10/2019,19/10/2019, Autumn school break , Various parts for Europe 
+Far East & Australia,Oct-19,01/10/2019,06/10/2019, National Holidays , China 
+Far East & Australia,Oct-19,27/10/2019,28/10/2019, Diwali ," Singapore,Malaysia "
+West -  South East Asia & Iran,Oct-19,04/10/2019,08/10/2019, Durga Puja ," India, Bangladesh "
+Africa,Nov-19,01/11/2019,02/11/2019, All Saints/All Souls Day ," Mauritius, Seychelles, Senegal "
+Africa,Nov-19,09/11/2019,10/11/2019, Milad ul Nabi/Mawlid/Maouloud ," Algeria, Cote de Ivoire, Ethiopia, Egypt, Sudan, Senegal, Tunisia "
+Africa,Nov-19,09/11/2019,11/11/2019, Milad ul Nabi/Mawlid/Maouloud , Morocco 
+Americas,Nov-19,01/11/2019,02/11/2019, All Saints/All Souls Day ,"  Peru, Chile, Brazil, Columbia,  Mexico, Uruguay, USA "
+Americas,Nov-19,01/11/2019,02/11/2019, Day of the dead , Mexico 
+Americas,Nov-19,03/11/2019,04/11/2019, Independence of Cuenca , Ecuador 
+Europe & Russia,Nov-19,01/11/2019,02/11/2019, All Saints/All Souls Day ," Austria, Belgium, Croatia, France, Finland, Sweden,Germany, Hungary, Italy, Poland, Portugal, Spain, UK "
+Far East & Australia,Nov-19,01/11/2019,02/11/2019, All Saints/All Souls Day , Philippines 
+Far East & Australia,Nov-19,03/11/2019,04/11/2019, Culture Day , Japan 
+Far East & Australia,Nov-19,09/11/2019,10/11/2019, Milad ul Nabi/Mawlid/Maouloud , Malaysia 
+Far East & Australia,Nov-19,09/11/2019,11/11/2019, Independence Day , Cambodia 
+Far East & Australia,Nov-19,10/11/2019,11/11/2019, Tazuangmone full moon , Myanmar 
+MIddle East & GCC,Nov-19,09/11/2019,10/11/2019, Milad ul Nabi/Mawlid/Maouloud , All GCC Countries 
+UAE ,Nov-19,09/11/2019,10/11/2019, Milad ul Nabi/Mawlid/Maouloud , UAE 
+West -  South East Asia & Iran,Nov-19,09/11/2019,10/11/2019, Milad ul Nabi/Mawlid/Maouloud ," Bangladesh , India, Maldives, Indonesia "
+Africa,Dec-19,08/12/2019,09/12/2019, Immaculate Conception , Seychelles 
+MIddle East & GCC,Dec-19,16/12/2019,17/12/2019, National Day , Bahrain 
